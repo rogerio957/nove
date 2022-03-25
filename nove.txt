@@ -1,0 +1,60 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="CNN pORTUGAL"
+https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=122859581&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDk6Mjk6NSBQTSZoYXNoX3ZhbHVlPVRjY2pTVHpQZmhxNDZUTUFiaTlMamc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00MjY1ZDliNy1hNDk0LTRkYzUtODhjYS0xZTlhZGNjNDc4MzY=
+#EXTINF:-1 tvg-id="pORTO CANAL"		
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w509742543.m3u8
+#EXTINF:-1 tvg-id="megapix
+https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=810139&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDk6NDg6MjYgUE0maGFzaF92YWx1ZT1HcXF2aWRqNHRhWWVNL21kdWlUM2xRPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-id="HBO"
+https://live.xvideosporn.me/p2p/hbo/chunks.m3u8?nimblesessionid=810404&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDk6NTE6NDcgUE0maGFzaF92YWx1ZT1xTXJxT0xRaGRiSXdkdy9hL1V0Uzd3PT0mdmFsaWRtaW51dGVzPTkw	
+#EXTINF:-1 tvg-id="Canal Livre"
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
+#EXTINF:-1 tvg-id="Carioca"
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w343452843.m3u8
+#EXTINF:-1 tvg-id="TV Agua"
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1015139332.m3u8
+#EXTINF:-1 tvg-id="Aracati"
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mega cine"
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w328361035.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil"
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283609.m3u8
+#EXTINF:-1 tvg-id="TV CHANNEL"
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
+#EXTINF:-1 tvg-id="SDT"
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=Cine Livre 1"	
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1405076796.m3u8
+#EXTINF:-1 tvg-id=Bons Tempos"
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w29439407.m3u8
+#EXTINF:-1 tvg-id="tvcanais -filmes"	
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1405076796.m3u8
+#EXTINF:-1 tvg-id="tv canais"		
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
